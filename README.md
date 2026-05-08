@@ -1,4 +1,4 @@
-# hospital-queue-hash-table
+# hospital-fila-encadeada
 Projeto desenvolvido para a disciplina de Estrutura de Dados / Programação III.
 
 O sistema é dividido em duas partes principais:
